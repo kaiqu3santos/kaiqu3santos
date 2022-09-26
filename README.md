@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaiqu3santos
-- 👀 I’m interested in javascript.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on html.
+- 👀 I’m interested in react native.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on python and java.
 - 📫 How to reach me.
 
 <!---
